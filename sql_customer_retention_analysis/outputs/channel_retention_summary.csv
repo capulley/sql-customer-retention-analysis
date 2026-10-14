@@ -1,0 +1,5 @@
+channel,acquired_customers,purchasing_customers,repeat_customers,repeat_purchase_pct,revenue_usd
+Referral,315,284,281,98.9,119795.36
+Organic Search,421,362,356,98.3,133909.0
+Paid Search,286,254,226,89.0,72728.37
+Social,178,154,128,83.1,41585.16
